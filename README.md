@@ -1,27 +1,34 @@
-# ProjetoFinal
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+# Formação Angular 11 - Projeto Final
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Projeto em angular desenvolvido durante o curso Formação Angular 11 na Udemy. O objetivo do desenvolvimento foi aprender na prática os principais conceitos do angular como: componentes, modelos, serviços, módulos, rotas, diretivas, filtros, observables, etc.
+Este repositório contém um conjunto de 5 projetos desenvolvidos ao longo do curso.
 
-## Build
+## Começando
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+As orientações a seguir permitirão a montagem de um ambiente necessário para a execução do código em ambiente de desenvolvimento
 
-## Running unit tests
+### Pré-requisitos
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- [Node.js](https://nodejs.org/en/)
+- [Angular](https://cli.angular.io/)
 
-## Running end-to-end tests
+### Instalação
+Para ter uma cópia disponível desse projeto, utilize o comando:
+```
+git clone https://github.com/IsacJr/Formacao-Angular-11.git
+```
+Para baixar as dependências externas, utilize os seguintes comandos:
+ ```
+cd Formacao-Angular-11
+npm install
+npm run start
+```
+O projeto estará sendo executado localmente:
+```
+http://localhost:4200/
+```
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
