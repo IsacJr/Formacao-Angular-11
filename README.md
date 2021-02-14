@@ -4,8 +4,15 @@
 
 # Formação Angular 11 - Projeto Final
 
-Projeto em angular desenvolvido durante o curso Formação Angular 11 na Udemy. O objetivo do desenvolvimento foi aprender na prática os principais conceitos do angular como: componentes, modelos, serviços, módulos, rotas, diretivas, filtros, observables, etc.
-Este repositório contém um conjunto de 5 projetos desenvolvidos ao longo do curso.
+Projeto em angular desenvolvido durante o curso Formação Angular 11 na Udemy.
+O objetivo do desenvolvimento foi aprender na prática os principais conceitos do angular como: componentes, modelos, serviços, módulos, rotas, diretivas, filtros, observables, etc.
+Este repositório contém um conjunto de 5 projetos desenvolvidos ao longo do curso:
+
+ - Calculadora
+ - Gerenciador de Tarefas
+ - Jogo da Velha
+ - Conversor de Moedas
+ - Dashboard
 
 ## Começando
 
